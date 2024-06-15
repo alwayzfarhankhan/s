@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;}
+
+    div{
+        text-align: center;
+    }
+
+    body{
+        background-image: url(2995002.jpg);
+        height: 1050px;
+    }
+
+    img{
+        height: 200px;
+        width: 300px;
+    }
+
+    a{
+        text-align: center;
+        text-decoration: none;
+        color: rgb(217, 233, 2);
+        height: max-content;
+        width:max-content ;
+    }
+
+    footer div img{
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+    }
+
+    h3{
+        font-size: 50px;
+        color: aqua;
+        text-align: center;
+    }
+
+
+
+
+

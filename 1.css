@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: aqua;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+button a{
+    color: aqua;
+    background-color:black;
+}
+
+div{
+    text-align: center;
+}
